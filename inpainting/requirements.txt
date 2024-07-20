@@ -1,0 +1,9 @@
+torchvision
+diffusers
+transformers
+accelerate
+ftfy
+scipy
+imageio
+modin[all]
+invisible_watermark
